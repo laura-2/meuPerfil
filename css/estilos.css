@@ -6,7 +6,6 @@ body{
 }
 
 .cabecalho-titulo{
-    text-align: center;
     font-weight: 700;
     font-size: 24px;
     margin: 10px;
@@ -16,8 +15,7 @@ body{
     font-weight: 600;
     font-size: 20px;
 }
-.resumo-texto, .caracteristicas-perfil, .experiencia-titulo,
-.curso-titulo, .contato-titulo{
+.resumo-texto, .caracteristicas-perfil, .experiencia-titulo, .contato-titulo{
     margin: 10px;
 }
 
@@ -25,4 +23,11 @@ body{
     font-weight: 600;
     font-size: 18px;
     margin: 10px;
+}
+.link{
+    margin: 10px;
+
+}
+.link:hover{
+    color: #190975;
 }
