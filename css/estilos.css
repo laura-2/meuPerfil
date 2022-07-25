@@ -1,0 +1,30 @@
+body{
+    background: #FFDAB9;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.cabecalho-imagem{
+    width: 100px;
+    margin: 10px 50px;
+}
+
+.cabecalho-titulo{
+    text-align: center;
+    font-weight: 700;
+    font-size: 24px;
+}
+.resumo, .caracteristicas, .experiencia, .curso, .contato{
+    margin: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    text-shadow: 5px 5px rgb(247, 171, 171);
+}
+.resumo-texto, .caracteristicas-perfil, .experiencia-titulo,
+.curso-titulo, .contato-titulo{
+    margin: 10px;
+}
+
+.cursos{
+    font-weight: 600;
+    font-size: 18px;
+}
